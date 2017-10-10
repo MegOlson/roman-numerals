@@ -4,7 +4,7 @@
   "description": "#### _Epicodus practice in Javascript, 8.17.2017_",
   "main": "gulpfile.js",
   "scripts": {
-    "test": "jasmine"
+    "test": "karma start karma.conf.js"
   },
   "repository": {
     "type": "git",
